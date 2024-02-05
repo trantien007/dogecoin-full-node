@@ -205,3 +205,4 @@ rpcallowip=0.0.0.0/0
 rpcuser=dogecoinrpc
 rpcpassword=password
 ```
+link https://github.com/dogecoin/dogecoin/releases
