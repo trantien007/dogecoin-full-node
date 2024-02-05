@@ -195,3 +195,13 @@ If it looks like the block height gets stuck (stops indexing the bootstrap, or s
 ```sh
 sudo systemctl restart dogecoind
 ```
+
+### dogecoin.conf
+```conf
+txindex=1
+reindex=1
+server=1
+rpcallowip=0.0.0.0/0
+rpcuser=dogecoinrpc
+rpcpassword=password
+```
