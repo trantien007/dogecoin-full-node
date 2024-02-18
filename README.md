@@ -194,6 +194,8 @@ If it looks like the block height gets stuck (stops indexing the bootstrap, or s
 
 ```sh
 sudo systemctl restart dogecoind
+
+systemctl is-active --quiet dogecoind
 ```
 
 ### dogecoin.conf
