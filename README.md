@@ -80,7 +80,7 @@ We will get the latest Dogecoin Core binaries (1.14.3) and install them.
 
 ```sh
 # Download and extract dogecoin binaries (including dogecoind)
-wget "https://github.com/dogecoin/dogecoin/releases/download/v1.14.7/dogecoin-1.14.6-x86_64-linux-gnu.tar.gz" -O dogecoin.tar.gz
+wget "https://github.com/dogecoin/dogecoin/releases/download/v1.14.7/dogecoin-1.14.7-x86_64-linux-gnu.tar.gz" -O dogecoin.tar.gz
 tar -zxvvf dogecoin.tar.gz
 rm dogecoin.tar.gz
 
