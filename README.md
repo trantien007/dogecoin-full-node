@@ -206,5 +206,9 @@ server=1
 rpcallowip=0.0.0.0/0
 rpcuser=dogecoinrpc
 rpcpassword=password
+
+rpcworkqueue=8
+dbcache=22000
+dblogsize=500000
 ```
 link https://github.com/dogecoin/dogecoin/releases
