@@ -212,3 +212,12 @@ dbcache=22000
 dblogsize=500000
 ```
 link https://github.com/dogecoin/dogecoin/releases
+
+Start:
+```sh
+sudo systemctl restart dogecoind
+```
+
+```info
+dogecoin-cli -conf=/etc/dogecoin/dogecoin.conf getinfo
+```
