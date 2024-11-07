@@ -229,8 +229,8 @@ txindex=1
 reindex=1
 server=1
 rpcallowip=0.0.0.0/0
-rpcuser=yuu68
-rpcpassword=yuu68@
+rpcuser=dogecoinrpc
+rpcpassword=password
 
 maxconnections=200
 dnsseed=1
